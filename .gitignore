@@ -1,0 +1,8 @@
+file2Ignore.html
+/folder2Ignore/
+
+
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
