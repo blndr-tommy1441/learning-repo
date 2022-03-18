@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1rem;
+}
+h1{
+  font-size: 3rem;
+}
+.main-container{
+  width: 90%;
+  margin: 0 auto;
+  /* border: red 1px solid; */
+  display: flex;
+  flex-direction: column;
+}
+
+.hero{
+  justify-content: center;
+  margin-top: 1.125rem;
+  width: 100%;
+}
+
+img{
+  width: 100%;
+}
